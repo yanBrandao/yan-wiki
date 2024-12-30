@@ -4,5 +4,5 @@ This is the most recent job oppotunity that a have been asked for. In this place
 
 ## Themes
 
- - [Kubernetes](./kubernetes/)
- - [Docker](./docker/)
+ - [Kubernetes](./kubernetes.md)
+ - [Docker](./docker.md)

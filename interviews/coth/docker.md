@@ -19,6 +19,20 @@ https://docs.docker.com/reference/cli/docker/inspect/
 ```
 docker run --name [container_name] -d -p [exposed_port]:[internal_port] [image_name]:[version]
 
+```
 
+`Q: How to create a Dockerfile at regular intervals`
 
+```
+docker run --name [container_name] -d -p [exposed_port]:[internal_port] [image_name]:[version]
+
+```
+
+`Q: What is EXPOSE in Dockerfile?`
+
+```
+the EXPOSE instruction is used to document the network ports that a container listens on at runtime.
+
+# Expose the HTTP port
+EXPOSE 80
 ```
